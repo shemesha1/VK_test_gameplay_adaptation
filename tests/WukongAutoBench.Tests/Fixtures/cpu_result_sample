@@ -1,0 +1,1634 @@
+{
+ "GameVer": "1.0.10.0",
+ "SysVer": "Windows 11 (10.0.26100)",
+ "CPUModel": "AMD Ryzen 7 7800X3D 8-Core Processor",
+ "GPUModel": "NVIDIA GeForce RTX 4070",
+ "GpuDriverVer": "576.88",
+ "VideoMemSize": "12282",
+ "SysMem": "32",
+ "ScreenMode": 1,
+ "ScreenResolution": "2560x1440",
+ "QualityLevel": 1,
+ "ImageQuality": 25,
+ "ViewDistance": 5,
+ "AntiAliasing": 1,
+ "PostProcessing": 1,
+ "ShadowQuality": 1,
+ "TextureQuality": 1,
+ "MaterialQuality": 1,
+ "VegetationQuality": 1,
+ "MotionBlur": 0,
+ "Rtx": 0,
+ "Dlss": 3,
+ "InsertFrame": 0,
+ "Dx12": 1,
+ "FPSAvg": 62.0,
+ "FPSMax": 72.2,
+ "FPSMin": 48.2,
+ "FPS95": "55.0",
+ "CPUAvg": 64.2,
+ "GPUAvg": 42.7,
+ "VideoMem": 3250,
+ "Records": [
+  {
+   "FrameRate": 61.0,
+   "CPUUsage": 68.0,
+   "GPUUsage": 36.1,
+   "CPUFrameTime": 16.01,
+   "GPUFrameTime": 6.1,
+   "VideoMemoryUsage": 3112
+  },
+  {
+   "FrameRate": 64.0,
+   "CPUUsage": 65.1,
+   "GPUUsage": 35.6,
+   "CPUFrameTime": 15.18,
+   "GPUFrameTime": 5.21,
+   "VideoMemoryUsage": 3118
+  },
+  {
+   "FrameRate": 55.3,
+   "CPUUsage": 57.5,
+   "GPUUsage": 38.3,
+   "CPUFrameTime": 17.75,
+   "GPUFrameTime": 7.84,
+   "VideoMemoryUsage": 3215
+  },
+  {
+   "FrameRate": 65.4,
+   "CPUUsage": 62.9,
+   "GPUUsage": 49.6,
+   "CPUFrameTime": 14.56,
+   "GPUFrameTime": 7.58,
+   "VideoMemoryUsage": 3158
+  },
+  {
+   "FrameRate": 63.2,
+   "CPUUsage": 61.2,
+   "GPUUsage": 47.2,
+   "CPUFrameTime": 15.17,
+   "GPUFrameTime": 6.74,
+   "VideoMemoryUsage": 3228
+  },
+  {
+   "FrameRate": 63.6,
+   "CPUUsage": 62.4,
+   "GPUUsage": 43.2,
+   "CPUFrameTime": 14.99,
+   "GPUFrameTime": 5.18,
+   "VideoMemoryUsage": 3141
+  },
+  {
+   "FrameRate": 60.2,
+   "CPUUsage": 61.3,
+   "GPUUsage": 43.8,
+   "CPUFrameTime": 16.16,
+   "GPUFrameTime": 5.9,
+   "VideoMemoryUsage": 3259
+  },
+  {
+   "FrameRate": 58.2,
+   "CPUUsage": 69.0,
+   "GPUUsage": 38.7,
+   "CPUFrameTime": 16.82,
+   "GPUFrameTime": 6.58,
+   "VideoMemoryUsage": 3275
+  },
+  {
+   "FrameRate": 61.6,
+   "CPUUsage": 74.6,
+   "GPUUsage": 36.8,
+   "CPUFrameTime": 15.76,
+   "GPUFrameTime": 7.27,
+   "VideoMemoryUsage": 3130
+  },
+  {
+   "FrameRate": 58.7,
+   "CPUUsage": 64.8,
+   "GPUUsage": 35.6,
+   "CPUFrameTime": 16.75,
+   "GPUFrameTime": 7.29,
+   "VideoMemoryUsage": 3215
+  },
+  {
+   "FrameRate": 64.5,
+   "CPUUsage": 68.9,
+   "GPUUsage": 43.9,
+   "CPUFrameTime": 15.18,
+   "GPUFrameTime": 6.37,
+   "VideoMemoryUsage": 3268
+  },
+  {
+   "FrameRate": 59.6,
+   "CPUUsage": 73.9,
+   "GPUUsage": 42.1,
+   "CPUFrameTime": 16.5,
+   "GPUFrameTime": 5.18,
+   "VideoMemoryUsage": 3240
+  },
+  {
+   "FrameRate": 54.4,
+   "CPUUsage": 71.4,
+   "GPUUsage": 39.3,
+   "CPUFrameTime": 17.82,
+   "GPUFrameTime": 7.01,
+   "VideoMemoryUsage": 3105
+  },
+  {
+   "FrameRate": 51.9,
+   "CPUUsage": 64.2,
+   "GPUUsage": 37.5,
+   "CPUFrameTime": 18.42,
+   "GPUFrameTime": 5.18,
+   "VideoMemoryUsage": 3254
+  },
+  {
+   "FrameRate": 64.1,
+   "CPUUsage": 62.8,
+   "GPUUsage": 48.1,
+   "CPUFrameTime": 14.88,
+   "GPUFrameTime": 6.35,
+   "VideoMemoryUsage": 3210
+  },
+  {
+   "FrameRate": 64.2,
+   "CPUUsage": 72.7,
+   "GPUUsage": 47.3,
+   "CPUFrameTime": 15.47,
+   "GPUFrameTime": 5.84,
+   "VideoMemoryUsage": 3183
+  },
+  {
+   "FrameRate": 56.8,
+   "CPUUsage": 74.2,
+   "GPUUsage": 37.3,
+   "CPUFrameTime": 16.88,
+   "GPUFrameTime": 5.7,
+   "VideoMemoryUsage": 3147
+  },
+  {
+   "FrameRate": 68.4,
+   "CPUUsage": 64.7,
+   "GPUUsage": 43.8,
+   "CPUFrameTime": 14.08,
+   "GPUFrameTime": 5.01,
+   "VideoMemoryUsage": 3184
+  },
+  {
+   "FrameRate": 58.5,
+   "CPUUsage": 74.1,
+   "GPUUsage": 45.4,
+   "CPUFrameTime": 16.68,
+   "GPUFrameTime": 6.85,
+   "VideoMemoryUsage": 3235
+  },
+  {
+   "FrameRate": 65.8,
+   "CPUUsage": 56.1,
+   "GPUUsage": 48.5,
+   "CPUFrameTime": 15.03,
+   "GPUFrameTime": 7.62,
+   "VideoMemoryUsage": 3260
+  },
+  {
+   "FrameRate": 58.9,
+   "CPUUsage": 57.1,
+   "GPUUsage": 44.5,
+   "CPUFrameTime": 16.18,
+   "GPUFrameTime": 5.2,
+   "VideoMemoryUsage": 3142
+  },
+  {
+   "FrameRate": 64.5,
+   "CPUUsage": 58.2,
+   "GPUUsage": 40.1,
+   "CPUFrameTime": 14.77,
+   "GPUFrameTime": 5.0,
+   "VideoMemoryUsage": 3130
+  },
+  {
+   "FrameRate": 65.1,
+   "CPUUsage": 55.5,
+   "GPUUsage": 48.1,
+   "CPUFrameTime": 15.06,
+   "GPUFrameTime": 5.45,
+   "VideoMemoryUsage": 3150
+  },
+  {
+   "FrameRate": 64.3,
+   "CPUUsage": 61.9,
+   "GPUUsage": 40.5,
+   "CPUFrameTime": 14.87,
+   "GPUFrameTime": 7.55,
+   "VideoMemoryUsage": 3299
+  },
+  {
+   "FrameRate": 57.5,
+   "CPUUsage": 56.7,
+   "GPUUsage": 36.5,
+   "CPUFrameTime": 16.82,
+   "GPUFrameTime": 5.79,
+   "VideoMemoryUsage": 3266
+  },
+  {
+   "FrameRate": 63.0,
+   "CPUUsage": 58.2,
+   "GPUUsage": 35.3,
+   "CPUFrameTime": 15.83,
+   "GPUFrameTime": 6.58,
+   "VideoMemoryUsage": 3129
+  },
+  {
+   "FrameRate": 61.1,
+   "CPUUsage": 65.6,
+   "GPUUsage": 49.7,
+   "CPUFrameTime": 16.25,
+   "GPUFrameTime": 7.09,
+   "VideoMemoryUsage": 3152
+  },
+  {
+   "FrameRate": 61.7,
+   "CPUUsage": 62.3,
+   "GPUUsage": 37.5,
+   "CPUFrameTime": 16.02,
+   "GPUFrameTime": 6.6,
+   "VideoMemoryUsage": 3256
+  },
+  {
+   "FrameRate": 60.6,
+   "CPUUsage": 71.2,
+   "GPUUsage": 49.8,
+   "CPUFrameTime": 16.38,
+   "GPUFrameTime": 7.42,
+   "VideoMemoryUsage": 3264
+  },
+  {
+   "FrameRate": 64.5,
+   "CPUUsage": 69.8,
+   "GPUUsage": 38.4,
+   "CPUFrameTime": 15.13,
+   "GPUFrameTime": 6.07,
+   "VideoMemoryUsage": 3106
+  },
+  {
+   "FrameRate": 65.2,
+   "CPUUsage": 60.2,
+   "GPUUsage": 45.4,
+   "CPUFrameTime": 15.3,
+   "GPUFrameTime": 6.34,
+   "VideoMemoryUsage": 3287
+  },
+  {
+   "FrameRate": 62.6,
+   "CPUUsage": 74.8,
+   "GPUUsage": 49.3,
+   "CPUFrameTime": 15.47,
+   "GPUFrameTime": 5.66,
+   "VideoMemoryUsage": 3145
+  },
+  {
+   "FrameRate": 62.9,
+   "CPUUsage": 67.5,
+   "GPUUsage": 48.5,
+   "CPUFrameTime": 15.77,
+   "GPUFrameTime": 6.44,
+   "VideoMemoryUsage": 3231
+  },
+  {
+   "FrameRate": 64.6,
+   "CPUUsage": 71.0,
+   "GPUUsage": 36.3,
+   "CPUFrameTime": 15.22,
+   "GPUFrameTime": 7.73,
+   "VideoMemoryUsage": 3256
+  },
+  {
+   "FrameRate": 62.0,
+   "CPUUsage": 58.6,
+   "GPUUsage": 46.8,
+   "CPUFrameTime": 15.59,
+   "GPUFrameTime": 7.4,
+   "VideoMemoryUsage": 3294
+  },
+  {
+   "FrameRate": 57.4,
+   "CPUUsage": 62.9,
+   "GPUUsage": 41.0,
+   "CPUFrameTime": 17.38,
+   "GPUFrameTime": 7.17,
+   "VideoMemoryUsage": 3134
+  },
+  {
+   "FrameRate": 63.6,
+   "CPUUsage": 73.1,
+   "GPUUsage": 47.1,
+   "CPUFrameTime": 15.05,
+   "GPUFrameTime": 7.48,
+   "VideoMemoryUsage": 3296
+  },
+  {
+   "FrameRate": 63.6,
+   "CPUUsage": 68.1,
+   "GPUUsage": 40.3,
+   "CPUFrameTime": 15.37,
+   "GPUFrameTime": 5.39,
+   "VideoMemoryUsage": 3103
+  },
+  {
+   "FrameRate": 67.7,
+   "CPUUsage": 65.5,
+   "GPUUsage": 49.0,
+   "CPUFrameTime": 14.35,
+   "GPUFrameTime": 7.62,
+   "VideoMemoryUsage": 3265
+  },
+  {
+   "FrameRate": 60.9,
+   "CPUUsage": 59.2,
+   "GPUUsage": 38.8,
+   "CPUFrameTime": 15.84,
+   "GPUFrameTime": 5.72,
+   "VideoMemoryUsage": 3217
+  },
+  {
+   "FrameRate": 61.8,
+   "CPUUsage": 57.6,
+   "GPUUsage": 48.7,
+   "CPUFrameTime": 15.66,
+   "GPUFrameTime": 6.37,
+   "VideoMemoryUsage": 3217
+  },
+  {
+   "FrameRate": 66.2,
+   "CPUUsage": 73.1,
+   "GPUUsage": 41.3,
+   "CPUFrameTime": 15.04,
+   "GPUFrameTime": 6.5,
+   "VideoMemoryUsage": 3206
+  },
+  {
+   "FrameRate": 61.2,
+   "CPUUsage": 63.8,
+   "GPUUsage": 37.7,
+   "CPUFrameTime": 15.53,
+   "GPUFrameTime": 7.4,
+   "VideoMemoryUsage": 3134
+  },
+  {
+   "FrameRate": 61.9,
+   "CPUUsage": 64.5,
+   "GPUUsage": 45.9,
+   "CPUFrameTime": 15.8,
+   "GPUFrameTime": 5.98,
+   "VideoMemoryUsage": 3204
+  },
+  {
+   "FrameRate": 55.4,
+   "CPUUsage": 57.1,
+   "GPUUsage": 43.4,
+   "CPUFrameTime": 17.37,
+   "GPUFrameTime": 5.83,
+   "VideoMemoryUsage": 3254
+  },
+  {
+   "FrameRate": 59.6,
+   "CPUUsage": 65.2,
+   "GPUUsage": 43.4,
+   "CPUFrameTime": 16.58,
+   "GPUFrameTime": 7.74,
+   "VideoMemoryUsage": 3189
+  },
+  {
+   "FrameRate": 58.4,
+   "CPUUsage": 65.2,
+   "GPUUsage": 45.4,
+   "CPUFrameTime": 16.65,
+   "GPUFrameTime": 6.6,
+   "VideoMemoryUsage": 3196
+  },
+  {
+   "FrameRate": 58.9,
+   "CPUUsage": 73.8,
+   "GPUUsage": 45.5,
+   "CPUFrameTime": 16.87,
+   "GPUFrameTime": 7.83,
+   "VideoMemoryUsage": 3152
+  },
+  {
+   "FrameRate": 53.1,
+   "CPUUsage": 71.8,
+   "GPUUsage": 37.1,
+   "CPUFrameTime": 18.01,
+   "GPUFrameTime": 6.33,
+   "VideoMemoryUsage": 3115
+  },
+  {
+   "FrameRate": 58.5,
+   "CPUUsage": 59.8,
+   "GPUUsage": 36.1,
+   "CPUFrameTime": 16.81,
+   "GPUFrameTime": 7.35,
+   "VideoMemoryUsage": 3279
+  },
+  {
+   "FrameRate": 65.6,
+   "CPUUsage": 68.2,
+   "GPUUsage": 37.1,
+   "CPUFrameTime": 15.15,
+   "GPUFrameTime": 7.9,
+   "VideoMemoryUsage": 3144
+  },
+  {
+   "FrameRate": 67.2,
+   "CPUUsage": 74.1,
+   "GPUUsage": 41.0,
+   "CPUFrameTime": 14.5,
+   "GPUFrameTime": 7.97,
+   "VideoMemoryUsage": 3266
+  },
+  {
+   "FrameRate": 64.2,
+   "CPUUsage": 65.3,
+   "GPUUsage": 40.1,
+   "CPUFrameTime": 14.95,
+   "GPUFrameTime": 5.96,
+   "VideoMemoryUsage": 3244
+  },
+  {
+   "FrameRate": 65.6,
+   "CPUUsage": 55.4,
+   "GPUUsage": 43.3,
+   "CPUFrameTime": 14.82,
+   "GPUFrameTime": 5.05,
+   "VideoMemoryUsage": 3166
+  },
+  {
+   "FrameRate": 58.6,
+   "CPUUsage": 56.3,
+   "GPUUsage": 49.8,
+   "CPUFrameTime": 16.88,
+   "GPUFrameTime": 7.92,
+   "VideoMemoryUsage": 3121
+  },
+  {
+   "FrameRate": 58.6,
+   "CPUUsage": 60.3,
+   "GPUUsage": 35.6,
+   "CPUFrameTime": 16.88,
+   "GPUFrameTime": 5.81,
+   "VideoMemoryUsage": 3126
+  },
+  {
+   "FrameRate": 54.2,
+   "CPUUsage": 71.4,
+   "GPUUsage": 38.9,
+   "CPUFrameTime": 17.67,
+   "GPUFrameTime": 7.76,
+   "VideoMemoryUsage": 3214
+  },
+  {
+   "FrameRate": 66.1,
+   "CPUUsage": 69.0,
+   "GPUUsage": 36.3,
+   "CPUFrameTime": 14.42,
+   "GPUFrameTime": 7.06,
+   "VideoMemoryUsage": 3185
+  },
+  {
+   "FrameRate": 70.5,
+   "CPUUsage": 67.7,
+   "GPUUsage": 47.0,
+   "CPUFrameTime": 13.53,
+   "GPUFrameTime": 7.57,
+   "VideoMemoryUsage": 3113
+  },
+  {
+   "FrameRate": 66.1,
+   "CPUUsage": 72.3,
+   "GPUUsage": 41.8,
+   "CPUFrameTime": 14.63,
+   "GPUFrameTime": 6.66,
+   "VideoMemoryUsage": 3285
+  },
+  {
+   "FrameRate": 61.8,
+   "CPUUsage": 65.5,
+   "GPUUsage": 38.6,
+   "CPUFrameTime": 15.46,
+   "GPUFrameTime": 5.48,
+   "VideoMemoryUsage": 3110
+  },
+  {
+   "FrameRate": 64.1,
+   "CPUUsage": 59.0,
+   "GPUUsage": 39.7,
+   "CPUFrameTime": 15.06,
+   "GPUFrameTime": 7.28,
+   "VideoMemoryUsage": 3158
+  },
+  {
+   "FrameRate": 59.5,
+   "CPUUsage": 61.9,
+   "GPUUsage": 35.3,
+   "CPUFrameTime": 16.18,
+   "GPUFrameTime": 5.05,
+   "VideoMemoryUsage": 3247
+  },
+  {
+   "FrameRate": 62.0,
+   "CPUUsage": 66.0,
+   "GPUUsage": 37.8,
+   "CPUFrameTime": 15.71,
+   "GPUFrameTime": 7.8,
+   "VideoMemoryUsage": 3121
+  },
+  {
+   "FrameRate": 63.8,
+   "CPUUsage": 64.9,
+   "GPUUsage": 47.5,
+   "CPUFrameTime": 15.2,
+   "GPUFrameTime": 6.52,
+   "VideoMemoryUsage": 3238
+  },
+  {
+   "FrameRate": 58.1,
+   "CPUUsage": 74.6,
+   "GPUUsage": 40.1,
+   "CPUFrameTime": 17.07,
+   "GPUFrameTime": 7.12,
+   "VideoMemoryUsage": 3227
+  },
+  {
+   "FrameRate": 58.9,
+   "CPUUsage": 56.1,
+   "GPUUsage": 36.9,
+   "CPUFrameTime": 16.19,
+   "GPUFrameTime": 7.22,
+   "VideoMemoryUsage": 3151
+  },
+  {
+   "FrameRate": 64.1,
+   "CPUUsage": 58.3,
+   "GPUUsage": 36.3,
+   "CPUFrameTime": 15.48,
+   "GPUFrameTime": 7.61,
+   "VideoMemoryUsage": 3234
+  },
+  {
+   "FrameRate": 61.4,
+   "CPUUsage": 60.9,
+   "GPUUsage": 41.9,
+   "CPUFrameTime": 15.6,
+   "GPUFrameTime": 6.34,
+   "VideoMemoryUsage": 3153
+  },
+  {
+   "FrameRate": 64.9,
+   "CPUUsage": 74.2,
+   "GPUUsage": 49.6,
+   "CPUFrameTime": 15.06,
+   "GPUFrameTime": 5.73,
+   "VideoMemoryUsage": 3293
+  },
+  {
+   "FrameRate": 60.6,
+   "CPUUsage": 55.0,
+   "GPUUsage": 40.7,
+   "CPUFrameTime": 16.07,
+   "GPUFrameTime": 6.51,
+   "VideoMemoryUsage": 3140
+  },
+  {
+   "FrameRate": 65.5,
+   "CPUUsage": 65.1,
+   "GPUUsage": 35.1,
+   "CPUFrameTime": 14.71,
+   "GPUFrameTime": 5.27,
+   "VideoMemoryUsage": 3180
+  },
+  {
+   "FrameRate": 62.8,
+   "CPUUsage": 61.1,
+   "GPUUsage": 38.5,
+   "CPUFrameTime": 15.59,
+   "GPUFrameTime": 6.59,
+   "VideoMemoryUsage": 3250
+  },
+  {
+   "FrameRate": 62.2,
+   "CPUUsage": 68.2,
+   "GPUUsage": 45.7,
+   "CPUFrameTime": 15.98,
+   "GPUFrameTime": 6.17,
+   "VideoMemoryUsage": 3165
+  },
+  {
+   "FrameRate": 64.3,
+   "CPUUsage": 69.5,
+   "GPUUsage": 44.6,
+   "CPUFrameTime": 14.81,
+   "GPUFrameTime": 7.51,
+   "VideoMemoryUsage": 3278
+  },
+  {
+   "FrameRate": 61.8,
+   "CPUUsage": 67.5,
+   "GPUUsage": 46.0,
+   "CPUFrameTime": 16.03,
+   "GPUFrameTime": 5.42,
+   "VideoMemoryUsage": 3205
+  },
+  {
+   "FrameRate": 54.4,
+   "CPUUsage": 71.1,
+   "GPUUsage": 47.4,
+   "CPUFrameTime": 18.0,
+   "GPUFrameTime": 7.68,
+   "VideoMemoryUsage": 3237
+  },
+  {
+   "FrameRate": 61.8,
+   "CPUUsage": 68.9,
+   "GPUUsage": 38.4,
+   "CPUFrameTime": 15.4,
+   "GPUFrameTime": 5.4,
+   "VideoMemoryUsage": 3172
+  },
+  {
+   "FrameRate": 68.0,
+   "CPUUsage": 66.2,
+   "GPUUsage": 44.4,
+   "CPUFrameTime": 14.43,
+   "GPUFrameTime": 7.04,
+   "VideoMemoryUsage": 3198
+  },
+  {
+   "FrameRate": 66.7,
+   "CPUUsage": 55.1,
+   "GPUUsage": 47.0,
+   "CPUFrameTime": 14.8,
+   "GPUFrameTime": 6.51,
+   "VideoMemoryUsage": 3207
+  },
+  {
+   "FrameRate": 61.2,
+   "CPUUsage": 69.7,
+   "GPUUsage": 38.8,
+   "CPUFrameTime": 15.58,
+   "GPUFrameTime": 5.8,
+   "VideoMemoryUsage": 3246
+  },
+  {
+   "FrameRate": 60.8,
+   "CPUUsage": 59.1,
+   "GPUUsage": 46.1,
+   "CPUFrameTime": 16.43,
+   "GPUFrameTime": 6.48,
+   "VideoMemoryUsage": 3177
+  },
+  {
+   "FrameRate": 56.0,
+   "CPUUsage": 70.3,
+   "GPUUsage": 44.3,
+   "CPUFrameTime": 17.54,
+   "GPUFrameTime": 5.23,
+   "VideoMemoryUsage": 3129
+  },
+  {
+   "FrameRate": 62.8,
+   "CPUUsage": 60.1,
+   "GPUUsage": 46.1,
+   "CPUFrameTime": 15.37,
+   "GPUFrameTime": 6.7,
+   "VideoMemoryUsage": 3102
+  },
+  {
+   "FrameRate": 64.9,
+   "CPUUsage": 68.4,
+   "GPUUsage": 45.4,
+   "CPUFrameTime": 15.16,
+   "GPUFrameTime": 5.87,
+   "VideoMemoryUsage": 3203
+  },
+  {
+   "FrameRate": 63.2,
+   "CPUUsage": 64.3,
+   "GPUUsage": 42.0,
+   "CPUFrameTime": 15.13,
+   "GPUFrameTime": 7.68,
+   "VideoMemoryUsage": 3140
+  },
+  {
+   "FrameRate": 71.3,
+   "CPUUsage": 55.4,
+   "GPUUsage": 41.9,
+   "CPUFrameTime": 13.9,
+   "GPUFrameTime": 7.9,
+   "VideoMemoryUsage": 3190
+  },
+  {
+   "FrameRate": 60.7,
+   "CPUUsage": 60.4,
+   "GPUUsage": 38.1,
+   "CPUFrameTime": 16.43,
+   "GPUFrameTime": 5.63,
+   "VideoMemoryUsage": 3216
+  },
+  {
+   "FrameRate": 65.1,
+   "CPUUsage": 74.1,
+   "GPUUsage": 37.0,
+   "CPUFrameTime": 15.22,
+   "GPUFrameTime": 6.53,
+   "VideoMemoryUsage": 3277
+  },
+  {
+   "FrameRate": 65.8,
+   "CPUUsage": 69.1,
+   "GPUUsage": 38.5,
+   "CPUFrameTime": 15.12,
+   "GPUFrameTime": 6.46,
+   "VideoMemoryUsage": 3105
+  },
+  {
+   "FrameRate": 66.7,
+   "CPUUsage": 64.0,
+   "GPUUsage": 39.5,
+   "CPUFrameTime": 14.35,
+   "GPUFrameTime": 6.03,
+   "VideoMemoryUsage": 3163
+  },
+  {
+   "FrameRate": 62.1,
+   "CPUUsage": 71.8,
+   "GPUUsage": 35.0,
+   "CPUFrameTime": 15.9,
+   "GPUFrameTime": 7.52,
+   "VideoMemoryUsage": 3124
+  },
+  {
+   "FrameRate": 67.7,
+   "CPUUsage": 73.0,
+   "GPUUsage": 39.3,
+   "CPUFrameTime": 14.31,
+   "GPUFrameTime": 6.18,
+   "VideoMemoryUsage": 3300
+  },
+  {
+   "FrameRate": 59.2,
+   "CPUUsage": 66.8,
+   "GPUUsage": 40.4,
+   "CPUFrameTime": 16.41,
+   "GPUFrameTime": 5.83,
+   "VideoMemoryUsage": 3110
+  },
+  {
+   "FrameRate": 68.1,
+   "CPUUsage": 60.7,
+   "GPUUsage": 49.0,
+   "CPUFrameTime": 14.13,
+   "GPUFrameTime": 5.8,
+   "VideoMemoryUsage": 3202
+  },
+  {
+   "FrameRate": 66.5,
+   "CPUUsage": 58.8,
+   "GPUUsage": 40.6,
+   "CPUFrameTime": 15.0,
+   "GPUFrameTime": 7.65,
+   "VideoMemoryUsage": 3262
+  },
+  {
+   "FrameRate": 56.0,
+   "CPUUsage": 73.8,
+   "GPUUsage": 43.2,
+   "CPUFrameTime": 17.61,
+   "GPUFrameTime": 5.15,
+   "VideoMemoryUsage": 3246
+  },
+  {
+   "FrameRate": 55.5,
+   "CPUUsage": 64.0,
+   "GPUUsage": 46.3,
+   "CPUFrameTime": 17.7,
+   "GPUFrameTime": 5.86,
+   "VideoMemoryUsage": 3110
+  },
+  {
+   "FrameRate": 63.9,
+   "CPUUsage": 64.4,
+   "GPUUsage": 40.2,
+   "CPUFrameTime": 15.1,
+   "GPUFrameTime": 7.22,
+   "VideoMemoryUsage": 3295
+  },
+  {
+   "FrameRate": 61.1,
+   "CPUUsage": 60.2,
+   "GPUUsage": 44.8,
+   "CPUFrameTime": 15.79,
+   "GPUFrameTime": 6.67,
+   "VideoMemoryUsage": 3179
+  },
+  {
+   "FrameRate": 63.2,
+   "CPUUsage": 59.2,
+   "GPUUsage": 48.6,
+   "CPUFrameTime": 15.42,
+   "GPUFrameTime": 5.66,
+   "VideoMemoryUsage": 3281
+  },
+  {
+   "FrameRate": 64.1,
+   "CPUUsage": 74.9,
+   "GPUUsage": 41.7,
+   "CPUFrameTime": 14.93,
+   "GPUFrameTime": 5.58,
+   "VideoMemoryUsage": 3118
+  },
+  {
+   "FrameRate": 61.0,
+   "CPUUsage": 59.8,
+   "GPUUsage": 38.9,
+   "CPUFrameTime": 16.04,
+   "GPUFrameTime": 7.66,
+   "VideoMemoryUsage": 3250
+  },
+  {
+   "FrameRate": 63.5,
+   "CPUUsage": 63.3,
+   "GPUUsage": 41.2,
+   "CPUFrameTime": 15.37,
+   "GPUFrameTime": 6.13,
+   "VideoMemoryUsage": 3168
+  },
+  {
+   "FrameRate": 65.0,
+   "CPUUsage": 74.4,
+   "GPUUsage": 36.9,
+   "CPUFrameTime": 15.0,
+   "GPUFrameTime": 6.89,
+   "VideoMemoryUsage": 3273
+  },
+  {
+   "FrameRate": 63.2,
+   "CPUUsage": 59.3,
+   "GPUUsage": 39.1,
+   "CPUFrameTime": 15.23,
+   "GPUFrameTime": 6.2,
+   "VideoMemoryUsage": 3189
+  },
+  {
+   "FrameRate": 69.5,
+   "CPUUsage": 72.5,
+   "GPUUsage": 35.3,
+   "CPUFrameTime": 13.69,
+   "GPUFrameTime": 7.13,
+   "VideoMemoryUsage": 3279
+  },
+  {
+   "FrameRate": 59.8,
+   "CPUUsage": 64.5,
+   "GPUUsage": 43.8,
+   "CPUFrameTime": 15.89,
+   "GPUFrameTime": 6.17,
+   "VideoMemoryUsage": 3285
+  },
+  {
+   "FrameRate": 65.6,
+   "CPUUsage": 74.4,
+   "GPUUsage": 38.7,
+   "CPUFrameTime": 14.56,
+   "GPUFrameTime": 5.46,
+   "VideoMemoryUsage": 3204
+  },
+  {
+   "FrameRate": 55.0,
+   "CPUUsage": 68.6,
+   "GPUUsage": 49.1,
+   "CPUFrameTime": 17.93,
+   "GPUFrameTime": 6.94,
+   "VideoMemoryUsage": 3253
+  },
+  {
+   "FrameRate": 57.1,
+   "CPUUsage": 55.8,
+   "GPUUsage": 46.7,
+   "CPUFrameTime": 16.84,
+   "GPUFrameTime": 7.76,
+   "VideoMemoryUsage": 3229
+  },
+  {
+   "FrameRate": 63.3,
+   "CPUUsage": 61.1,
+   "GPUUsage": 36.9,
+   "CPUFrameTime": 15.21,
+   "GPUFrameTime": 6.91,
+   "VideoMemoryUsage": 3240
+  },
+  {
+   "FrameRate": 63.2,
+   "CPUUsage": 65.5,
+   "GPUUsage": 43.7,
+   "CPUFrameTime": 15.34,
+   "GPUFrameTime": 5.67,
+   "VideoMemoryUsage": 3220
+  },
+  {
+   "FrameRate": 63.0,
+   "CPUUsage": 55.2,
+   "GPUUsage": 39.5,
+   "CPUFrameTime": 15.44,
+   "GPUFrameTime": 7.88,
+   "VideoMemoryUsage": 3229
+  },
+  {
+   "FrameRate": 65.4,
+   "CPUUsage": 59.7,
+   "GPUUsage": 38.7,
+   "CPUFrameTime": 15.26,
+   "GPUFrameTime": 7.11,
+   "VideoMemoryUsage": 3161
+  },
+  {
+   "FrameRate": 59.0,
+   "CPUUsage": 55.4,
+   "GPUUsage": 42.5,
+   "CPUFrameTime": 16.67,
+   "GPUFrameTime": 6.26,
+   "VideoMemoryUsage": 3151
+  },
+  {
+   "FrameRate": 57.5,
+   "CPUUsage": 59.5,
+   "GPUUsage": 35.5,
+   "CPUFrameTime": 16.82,
+   "GPUFrameTime": 6.26,
+   "VideoMemoryUsage": 3237
+  },
+  {
+   "FrameRate": 54.1,
+   "CPUUsage": 59.0,
+   "GPUUsage": 47.0,
+   "CPUFrameTime": 18.24,
+   "GPUFrameTime": 6.51,
+   "VideoMemoryUsage": 3141
+  },
+  {
+   "FrameRate": 65.4,
+   "CPUUsage": 71.4,
+   "GPUUsage": 38.5,
+   "CPUFrameTime": 14.7,
+   "GPUFrameTime": 7.28,
+   "VideoMemoryUsage": 3159
+  },
+  {
+   "FrameRate": 61.3,
+   "CPUUsage": 74.0,
+   "GPUUsage": 42.4,
+   "CPUFrameTime": 15.65,
+   "GPUFrameTime": 5.67,
+   "VideoMemoryUsage": 3183
+  },
+  {
+   "FrameRate": 57.1,
+   "CPUUsage": 57.9,
+   "GPUUsage": 40.9,
+   "CPUFrameTime": 16.82,
+   "GPUFrameTime": 7.92,
+   "VideoMemoryUsage": 3128
+  },
+  {
+   "FrameRate": 53.6,
+   "CPUUsage": 56.0,
+   "GPUUsage": 35.9,
+   "CPUFrameTime": 18.09,
+   "GPUFrameTime": 7.69,
+   "VideoMemoryUsage": 3277
+  },
+  {
+   "FrameRate": 60.5,
+   "CPUUsage": 73.6,
+   "GPUUsage": 39.9,
+   "CPUFrameTime": 15.86,
+   "GPUFrameTime": 7.81,
+   "VideoMemoryUsage": 3249
+  },
+  {
+   "FrameRate": 48.2,
+   "CPUUsage": 55.6,
+   "GPUUsage": 45.0,
+   "CPUFrameTime": 20.1,
+   "GPUFrameTime": 6.12,
+   "VideoMemoryUsage": 3166
+  },
+  {
+   "FrameRate": 62.1,
+   "CPUUsage": 60.6,
+   "GPUUsage": 40.3,
+   "CPUFrameTime": 16.07,
+   "GPUFrameTime": 5.37,
+   "VideoMemoryUsage": 3293
+  },
+  {
+   "FrameRate": 62.3,
+   "CPUUsage": 59.1,
+   "GPUUsage": 40.3,
+   "CPUFrameTime": 15.91,
+   "GPUFrameTime": 7.47,
+   "VideoMemoryUsage": 3186
+  },
+  {
+   "FrameRate": 66.3,
+   "CPUUsage": 62.5,
+   "GPUUsage": 48.8,
+   "CPUFrameTime": 14.47,
+   "GPUFrameTime": 6.09,
+   "VideoMemoryUsage": 3279
+  },
+  {
+   "FrameRate": 63.4,
+   "CPUUsage": 55.6,
+   "GPUUsage": 41.2,
+   "CPUFrameTime": 15.62,
+   "GPUFrameTime": 7.3,
+   "VideoMemoryUsage": 3108
+  },
+  {
+   "FrameRate": 63.4,
+   "CPUUsage": 73.4,
+   "GPUUsage": 38.9,
+   "CPUFrameTime": 15.57,
+   "GPUFrameTime": 7.7,
+   "VideoMemoryUsage": 3168
+  },
+  {
+   "FrameRate": 62.3,
+   "CPUUsage": 60.4,
+   "GPUUsage": 49.4,
+   "CPUFrameTime": 15.74,
+   "GPUFrameTime": 5.79,
+   "VideoMemoryUsage": 3243
+  },
+  {
+   "FrameRate": 60.7,
+   "CPUUsage": 55.1,
+   "GPUUsage": 46.3,
+   "CPUFrameTime": 16.41,
+   "GPUFrameTime": 6.9,
+   "VideoMemoryUsage": 3289
+  },
+  {
+   "FrameRate": 64.9,
+   "CPUUsage": 55.5,
+   "GPUUsage": 38.5,
+   "CPUFrameTime": 15.0,
+   "GPUFrameTime": 7.87,
+   "VideoMemoryUsage": 3291
+  },
+  {
+   "FrameRate": 59.7,
+   "CPUUsage": 63.6,
+   "GPUUsage": 42.4,
+   "CPUFrameTime": 16.69,
+   "GPUFrameTime": 5.55,
+   "VideoMemoryUsage": 3261
+  },
+  {
+   "FrameRate": 64.0,
+   "CPUUsage": 69.8,
+   "GPUUsage": 47.3,
+   "CPUFrameTime": 15.45,
+   "GPUFrameTime": 6.82,
+   "VideoMemoryUsage": 3166
+  },
+  {
+   "FrameRate": 60.4,
+   "CPUUsage": 70.6,
+   "GPUUsage": 36.2,
+   "CPUFrameTime": 15.89,
+   "GPUFrameTime": 7.26,
+   "VideoMemoryUsage": 3149
+  },
+  {
+   "FrameRate": 65.4,
+   "CPUUsage": 56.3,
+   "GPUUsage": 35.5,
+   "CPUFrameTime": 14.95,
+   "GPUFrameTime": 5.98,
+   "VideoMemoryUsage": 3296
+  },
+  {
+   "FrameRate": 70.8,
+   "CPUUsage": 60.3,
+   "GPUUsage": 36.3,
+   "CPUFrameTime": 13.49,
+   "GPUFrameTime": 6.5,
+   "VideoMemoryUsage": 3242
+  },
+  {
+   "FrameRate": 54.1,
+   "CPUUsage": 63.9,
+   "GPUUsage": 38.5,
+   "CPUFrameTime": 17.95,
+   "GPUFrameTime": 6.86,
+   "VideoMemoryUsage": 3235
+  },
+  {
+   "FrameRate": 61.9,
+   "CPUUsage": 68.3,
+   "GPUUsage": 36.8,
+   "CPUFrameTime": 16.03,
+   "GPUFrameTime": 5.88,
+   "VideoMemoryUsage": 3213
+  },
+  {
+   "FrameRate": 54.3,
+   "CPUUsage": 62.5,
+   "GPUUsage": 46.1,
+   "CPUFrameTime": 17.68,
+   "GPUFrameTime": 5.74,
+   "VideoMemoryUsage": 3149
+  },
+  {
+   "FrameRate": 66.7,
+   "CPUUsage": 66.6,
+   "GPUUsage": 39.9,
+   "CPUFrameTime": 14.54,
+   "GPUFrameTime": 7.98,
+   "VideoMemoryUsage": 3201
+  },
+  {
+   "FrameRate": 68.8,
+   "CPUUsage": 59.6,
+   "GPUUsage": 47.1,
+   "CPUFrameTime": 14.28,
+   "GPUFrameTime": 7.97,
+   "VideoMemoryUsage": 3120
+  },
+  {
+   "FrameRate": 54.7,
+   "CPUUsage": 71.8,
+   "GPUUsage": 48.7,
+   "CPUFrameTime": 17.4,
+   "GPUFrameTime": 5.88,
+   "VideoMemoryUsage": 3124
+  },
+  {
+   "FrameRate": 63.2,
+   "CPUUsage": 58.8,
+   "GPUUsage": 49.6,
+   "CPUFrameTime": 15.49,
+   "GPUFrameTime": 7.79,
+   "VideoMemoryUsage": 3174
+  },
+  {
+   "FrameRate": 64.9,
+   "CPUUsage": 60.2,
+   "GPUUsage": 46.7,
+   "CPUFrameTime": 15.37,
+   "GPUFrameTime": 5.32,
+   "VideoMemoryUsage": 3219
+  },
+  {
+   "FrameRate": 58.7,
+   "CPUUsage": 67.4,
+   "GPUUsage": 38.3,
+   "CPUFrameTime": 16.5,
+   "GPUFrameTime": 5.42,
+   "VideoMemoryUsage": 3141
+  },
+  {
+   "FrameRate": 61.8,
+   "CPUUsage": 68.0,
+   "GPUUsage": 38.1,
+   "CPUFrameTime": 15.38,
+   "GPUFrameTime": 5.98,
+   "VideoMemoryUsage": 3236
+  },
+  {
+   "FrameRate": 67.4,
+   "CPUUsage": 58.7,
+   "GPUUsage": 39.7,
+   "CPUFrameTime": 14.25,
+   "GPUFrameTime": 7.39,
+   "VideoMemoryUsage": 3210
+  },
+  {
+   "FrameRate": 63.7,
+   "CPUUsage": 62.9,
+   "GPUUsage": 43.3,
+   "CPUFrameTime": 15.42,
+   "GPUFrameTime": 5.27,
+   "VideoMemoryUsage": 3133
+  },
+  {
+   "FrameRate": 62.7,
+   "CPUUsage": 68.9,
+   "GPUUsage": 41.1,
+   "CPUFrameTime": 15.38,
+   "GPUFrameTime": 5.92,
+   "VideoMemoryUsage": 3291
+  },
+  {
+   "FrameRate": 60.0,
+   "CPUUsage": 62.1,
+   "GPUUsage": 41.2,
+   "CPUFrameTime": 16.55,
+   "GPUFrameTime": 7.99,
+   "VideoMemoryUsage": 3173
+  },
+  {
+   "FrameRate": 66.8,
+   "CPUUsage": 58.9,
+   "GPUUsage": 45.9,
+   "CPUFrameTime": 14.37,
+   "GPUFrameTime": 5.02,
+   "VideoMemoryUsage": 3280
+  },
+  {
+   "FrameRate": 55.4,
+   "CPUUsage": 63.1,
+   "GPUUsage": 48.2,
+   "CPUFrameTime": 17.56,
+   "GPUFrameTime": 5.49,
+   "VideoMemoryUsage": 3103
+  },
+  {
+   "FrameRate": 65.4,
+   "CPUUsage": 66.0,
+   "GPUUsage": 44.6,
+   "CPUFrameTime": 15.22,
+   "GPUFrameTime": 5.27,
+   "VideoMemoryUsage": 3224
+  },
+  {
+   "FrameRate": 58.7,
+   "CPUUsage": 57.9,
+   "GPUUsage": 39.2,
+   "CPUFrameTime": 16.63,
+   "GPUFrameTime": 7.78,
+   "VideoMemoryUsage": 3122
+  },
+  {
+   "FrameRate": 65.4,
+   "CPUUsage": 64.8,
+   "GPUUsage": 47.1,
+   "CPUFrameTime": 15.27,
+   "GPUFrameTime": 5.59,
+   "VideoMemoryUsage": 3125
+  },
+  {
+   "FrameRate": 72.2,
+   "CPUUsage": 64.7,
+   "GPUUsage": 35.8,
+   "CPUFrameTime": 13.8,
+   "GPUFrameTime": 6.16,
+   "VideoMemoryUsage": 3281
+  },
+  {
+   "FrameRate": 58.2,
+   "CPUUsage": 67.4,
+   "GPUUsage": 47.4,
+   "CPUFrameTime": 16.46,
+   "GPUFrameTime": 7.36,
+   "VideoMemoryUsage": 3144
+  },
+  {
+   "FrameRate": 55.6,
+   "CPUUsage": 71.6,
+   "GPUUsage": 37.7,
+   "CPUFrameTime": 17.28,
+   "GPUFrameTime": 6.2,
+   "VideoMemoryUsage": 3204
+  },
+  {
+   "FrameRate": 66.4,
+   "CPUUsage": 62.7,
+   "GPUUsage": 36.8,
+   "CPUFrameTime": 14.49,
+   "GPUFrameTime": 7.17,
+   "VideoMemoryUsage": 3279
+  },
+  {
+   "FrameRate": 67.0,
+   "CPUUsage": 70.1,
+   "GPUUsage": 35.6,
+   "CPUFrameTime": 14.8,
+   "GPUFrameTime": 5.35,
+   "VideoMemoryUsage": 3220
+  },
+  {
+   "FrameRate": 63.3,
+   "CPUUsage": 66.0,
+   "GPUUsage": 44.4,
+   "CPUFrameTime": 15.25,
+   "GPUFrameTime": 6.26,
+   "VideoMemoryUsage": 3217
+  },
+  {
+   "FrameRate": 56.8,
+   "CPUUsage": 63.9,
+   "GPUUsage": 41.6,
+   "CPUFrameTime": 16.75,
+   "GPUFrameTime": 6.86,
+   "VideoMemoryUsage": 3198
+  },
+  {
+   "FrameRate": 64.6,
+   "CPUUsage": 59.7,
+   "GPUUsage": 46.5,
+   "CPUFrameTime": 15.31,
+   "GPUFrameTime": 6.37,
+   "VideoMemoryUsage": 3136
+  },
+  {
+   "FrameRate": 60.1,
+   "CPUUsage": 57.6,
+   "GPUUsage": 41.5,
+   "CPUFrameTime": 15.88,
+   "GPUFrameTime": 6.33,
+   "VideoMemoryUsage": 3202
+  },
+  {
+   "FrameRate": 62.3,
+   "CPUUsage": 55.8,
+   "GPUUsage": 44.5,
+   "CPUFrameTime": 15.31,
+   "GPUFrameTime": 7.2,
+   "VideoMemoryUsage": 3256
+  },
+  {
+   "FrameRate": 60.7,
+   "CPUUsage": 65.1,
+   "GPUUsage": 40.7,
+   "CPUFrameTime": 16.43,
+   "GPUFrameTime": 5.41,
+   "VideoMemoryUsage": 3271
+  },
+  {
+   "FrameRate": 61.9,
+   "CPUUsage": 74.9,
+   "GPUUsage": 46.0,
+   "CPUFrameTime": 16.01,
+   "GPUFrameTime": 5.58,
+   "VideoMemoryUsage": 3296
+  },
+  {
+   "FrameRate": 52.0,
+   "CPUUsage": 73.3,
+   "GPUUsage": 37.5,
+   "CPUFrameTime": 19.03,
+   "GPUFrameTime": 7.79,
+   "VideoMemoryUsage": 3113
+  },
+  {
+   "FrameRate": 62.5,
+   "CPUUsage": 62.0,
+   "GPUUsage": 46.3,
+   "CPUFrameTime": 15.33,
+   "GPUFrameTime": 7.69,
+   "VideoMemoryUsage": 3155
+  },
+  {
+   "FrameRate": 62.9,
+   "CPUUsage": 65.0,
+   "GPUUsage": 48.8,
+   "CPUFrameTime": 15.27,
+   "GPUFrameTime": 5.79,
+   "VideoMemoryUsage": 3201
+  },
+  {
+   "FrameRate": 60.0,
+   "CPUUsage": 61.4,
+   "GPUUsage": 35.6,
+   "CPUFrameTime": 15.99,
+   "GPUFrameTime": 5.48,
+   "VideoMemoryUsage": 3287
+  },
+  {
+   "FrameRate": 58.4,
+   "CPUUsage": 58.4,
+   "GPUUsage": 46.8,
+   "CPUFrameTime": 16.37,
+   "GPUFrameTime": 6.59,
+   "VideoMemoryUsage": 3227
+  },
+  {
+   "FrameRate": 54.3,
+   "CPUUsage": 62.2,
+   "GPUUsage": 48.1,
+   "CPUFrameTime": 18.01,
+   "GPUFrameTime": 6.74,
+   "VideoMemoryUsage": 3277
+  },
+  {
+   "FrameRate": 72.0,
+   "CPUUsage": 67.6,
+   "GPUUsage": 40.9,
+   "CPUFrameTime": 13.75,
+   "GPUFrameTime": 5.79,
+   "VideoMemoryUsage": 3298
+  },
+  {
+   "FrameRate": 69.7,
+   "CPUUsage": 66.5,
+   "GPUUsage": 40.4,
+   "CPUFrameTime": 14.18,
+   "GPUFrameTime": 6.33,
+   "VideoMemoryUsage": 3135
+  },
+  {
+   "FrameRate": 61.9,
+   "CPUUsage": 71.4,
+   "GPUUsage": 38.8,
+   "CPUFrameTime": 15.86,
+   "GPUFrameTime": 7.95,
+   "VideoMemoryUsage": 3217
+  },
+  {
+   "FrameRate": 60.7,
+   "CPUUsage": 68.3,
+   "GPUUsage": 39.7,
+   "CPUFrameTime": 15.65,
+   "GPUFrameTime": 5.1,
+   "VideoMemoryUsage": 3130
+  },
+  {
+   "FrameRate": 58.8,
+   "CPUUsage": 65.3,
+   "GPUUsage": 48.4,
+   "CPUFrameTime": 16.27,
+   "GPUFrameTime": 5.68,
+   "VideoMemoryUsage": 3231
+  },
+  {
+   "FrameRate": 59.2,
+   "CPUUsage": 55.4,
+   "GPUUsage": 35.0,
+   "CPUFrameTime": 16.35,
+   "GPUFrameTime": 5.32,
+   "VideoMemoryUsage": 3171
+  },
+  {
+   "FrameRate": 62.9,
+   "CPUUsage": 66.8,
+   "GPUUsage": 38.1,
+   "CPUFrameTime": 15.6,
+   "GPUFrameTime": 6.42,
+   "VideoMemoryUsage": 3127
+  },
+  {
+   "FrameRate": 67.2,
+   "CPUUsage": 73.7,
+   "GPUUsage": 38.7,
+   "CPUFrameTime": 14.25,
+   "GPUFrameTime": 5.29,
+   "VideoMemoryUsage": 3228
+  },
+  {
+   "FrameRate": 66.8,
+   "CPUUsage": 63.0,
+   "GPUUsage": 39.0,
+   "CPUFrameTime": 14.23,
+   "GPUFrameTime": 6.93,
+   "VideoMemoryUsage": 3212
+  },
+  {
+   "FrameRate": 56.9,
+   "CPUUsage": 62.0,
+   "GPUUsage": 44.7,
+   "CPUFrameTime": 17.09,
+   "GPUFrameTime": 7.81,
+   "VideoMemoryUsage": 3247
+  },
+  {
+   "FrameRate": 62.1,
+   "CPUUsage": 55.9,
+   "GPUUsage": 43.0,
+   "CPUFrameTime": 15.62,
+   "GPUFrameTime": 5.71,
+   "VideoMemoryUsage": 3112
+  },
+  {
+   "FrameRate": 70.6,
+   "CPUUsage": 70.6,
+   "GPUUsage": 35.2,
+   "CPUFrameTime": 13.85,
+   "GPUFrameTime": 7.82,
+   "VideoMemoryUsage": 3128
+  },
+  {
+   "FrameRate": 63.7,
+   "CPUUsage": 65.1,
+   "GPUUsage": 44.6,
+   "CPUFrameTime": 15.55,
+   "GPUFrameTime": 5.52,
+   "VideoMemoryUsage": 3162
+  },
+  {
+   "FrameRate": 67.2,
+   "CPUUsage": 61.0,
+   "GPUUsage": 35.7,
+   "CPUFrameTime": 14.8,
+   "GPUFrameTime": 7.35,
+   "VideoMemoryUsage": 3243
+  },
+  {
+   "FrameRate": 69.7,
+   "CPUUsage": 69.9,
+   "GPUUsage": 42.0,
+   "CPUFrameTime": 14.16,
+   "GPUFrameTime": 6.36,
+   "VideoMemoryUsage": 3145
+  },
+  {
+   "FrameRate": 62.3,
+   "CPUUsage": 57.1,
+   "GPUUsage": 38.5,
+   "CPUFrameTime": 15.28,
+   "GPUFrameTime": 6.01,
+   "VideoMemoryUsage": 3250
+  },
+  {
+   "FrameRate": 59.4,
+   "CPUUsage": 69.2,
+   "GPUUsage": 39.0,
+   "CPUFrameTime": 16.46,
+   "GPUFrameTime": 6.31,
+   "VideoMemoryUsage": 3258
+  },
+  {
+   "FrameRate": 54.7,
+   "CPUUsage": 65.5,
+   "GPUUsage": 39.0,
+   "CPUFrameTime": 17.95,
+   "GPUFrameTime": 7.9,
+   "VideoMemoryUsage": 3143
+  },
+  {
+   "FrameRate": 62.5,
+   "CPUUsage": 60.2,
+   "GPUUsage": 38.5,
+   "CPUFrameTime": 15.8,
+   "GPUFrameTime": 7.83,
+   "VideoMemoryUsage": 3249
+  },
+  {
+   "FrameRate": 61.5,
+   "CPUUsage": 61.5,
+   "GPUUsage": 48.2,
+   "CPUFrameTime": 15.71,
+   "GPUFrameTime": 5.72,
+   "VideoMemoryUsage": 3282
+  },
+  {
+   "FrameRate": 57.8,
+   "CPUUsage": 68.3,
+   "GPUUsage": 49.7,
+   "CPUFrameTime": 16.84,
+   "GPUFrameTime": 7.52,
+   "VideoMemoryUsage": 3240
+  },
+  {
+   "FrameRate": 57.5,
+   "CPUUsage": 72.2,
+   "GPUUsage": 41.6,
+   "CPUFrameTime": 17.15,
+   "GPUFrameTime": 6.71,
+   "VideoMemoryUsage": 3162
+  },
+  {
+   "FrameRate": 63.3,
+   "CPUUsage": 56.6,
+   "GPUUsage": 48.7,
+   "CPUFrameTime": 15.12,
+   "GPUFrameTime": 5.08,
+   "VideoMemoryUsage": 3121
+  },
+  {
+   "FrameRate": 67.4,
+   "CPUUsage": 73.6,
+   "GPUUsage": 40.2,
+   "CPUFrameTime": 14.2,
+   "GPUFrameTime": 5.09,
+   "VideoMemoryUsage": 3108
+  },
+  {
+   "FrameRate": 60.0,
+   "CPUUsage": 68.9,
+   "GPUUsage": 46.1,
+   "CPUFrameTime": 15.89,
+   "GPUFrameTime": 6.77,
+   "VideoMemoryUsage": 3173
+  },
+  {
+   "FrameRate": 56.7,
+   "CPUUsage": 71.4,
+   "GPUUsage": 47.3,
+   "CPUFrameTime": 17.54,
+   "GPUFrameTime": 5.2,
+   "VideoMemoryUsage": 3274
+  }
+ ]
+}

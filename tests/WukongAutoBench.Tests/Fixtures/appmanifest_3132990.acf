@@ -1,0 +1,15 @@
+"AppState"
+{
+	"appid"		"3132990"
+	"Universe"		"1"
+	"name"		"Black Myth: Wukong Benchmark Tool"
+	"StateFlags"		"4"
+	"installdir"		"Black Myth Wukong Benchmark Tool"
+	"buildid"		"15117622"
+	"SizeOnDisk"		"9013425561"
+	// комментарии в acf тоже бывают
+	"UserConfig"
+	{
+		"language"		"russian"
+	}
+}
